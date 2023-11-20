@@ -1,0 +1,20 @@
+[INFO ] 2023-11-07 16:27:26.202 [main] TC_LoginPage_001 - URL is opened
+[INFO ] 2023-11-07 16:27:26.349 [main] TC_LoginPage_001 - Entered UserName
+[INFO ] 2023-11-07 16:27:26.446 [main] TC_LoginPage_001 - Entered Password
+[INFO ] 2023-11-07 16:27:27.635 [main] TC_LoginPage_001 - Login Passed
+[INFO ] 2023-11-08 10:15:27.471 [main] TC_LoginPage_001 - URL is opened
+[INFO ] 2023-11-08 10:15:27.657 [main] TC_LoginPage_001 - Entered UserName
+[INFO ] 2023-11-08 10:15:27.785 [main] TC_LoginPage_001 - Entered Password
+[INFO ] 2023-11-08 10:15:29.113 [main] TC_LoginPage_001 - Login Passed
+[INFO ] 2023-11-08 10:49:34.075 [main] TC_LoginPage_001 - URL is opened
+[INFO ] 2023-11-08 10:49:34.238 [main] TC_LoginPage_001 - Entered UserName
+[INFO ] 2023-11-08 10:49:34.403 [main] TC_LoginPage_001 - Entered Password
+[INFO ] 2023-11-08 10:49:35.565 [main] TC_LoginPage_001 - Login Passed
+[INFO ] 2023-11-08 10:50:28.596 [main] TC_LoginPage_001 - URL is opened
+[INFO ] 2023-11-08 10:50:29.276 [main] TC_LoginPage_001 - Entered UserName
+[INFO ] 2023-11-08 10:50:29.326 [main] TC_LoginPage_001 - Entered Password
+[INFO ] 2023-11-08 10:50:31.234 [main] TC_LoginPage_001 - Login Passed
+[INFO ] 2023-11-08 10:51:27.465 [main] TC_LoginPage_001 - URL is opened
+[INFO ] 2023-11-08 10:51:27.730 [main] TC_LoginPage_001 - Entered UserName
+[INFO ] 2023-11-08 10:51:27.946 [main] TC_LoginPage_001 - Entered Password
+[INFO ] 2023-11-08 10:51:29.502 [main] TC_LoginPage_001 - Login Passed
